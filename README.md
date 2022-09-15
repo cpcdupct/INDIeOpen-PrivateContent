@@ -5,6 +5,10 @@ This is the repository for one of the components of the INDIeOpen architecture, 
 
 <img src="architecture-privatecontent.jpg">
 
+## Deployment
+
+The PrivateContent component is based on PHP (https://www.php.net/manual/es/intro-whatis.php) and Docker images (https://hub.docker.com/). The deployment of this web application depends on the selected cloud computing provider. Each cloud computing provider provides its own deployment manual. In the case of Microsoft’s Azure one option is Azure Web App for Containers (https://azure.microsoft.com/es-es/services/app-service/containers/) and Azure Container Registry (https://azure.microsoft.com/es-es/products/container-registry/). You can find more information at the following URL Configure a custom container - Azure App Service | Microsoft Docs (https://docs.microsoft.com/en-us/azure/app-service/configure-custom-container?pivots=container-linux#use-persistent-shared-storage).
+
 ## Creators and contributors
 
 PrivateContent component files have been created at the **Digital Content Creation Center** (CPCD), in the Universidad Politécnica de Cartagena.
